@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/drawable/btn_outlined.xml" value="0.2045" />
+        <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/drawable/ic_github.xml" value="0.2325" />
+        <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/drawable/input_drawable.xml" value="0.2325" />
+        <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/layout/fragment_register.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidProjects/FirebaseAuthenticationMVP/app/src/main/res/layout/fragment_welcome.xml" value="0.36666666666666664" />
       </map>
     </option>
